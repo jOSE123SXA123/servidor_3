@@ -23,7 +23,7 @@ ENV PYTHONUNBUFFERED=1
 ENV PYTHONDONTWRITEBYTECODE=1
 
 # Exponemos el puerto dinámico
-ENV PORT=10001
+ENV PORT=10002
 EXPOSE $PORT
 
 # Comando para ejecutar la aplicación
